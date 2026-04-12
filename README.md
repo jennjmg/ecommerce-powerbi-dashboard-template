@@ -1,113 +1,88 @@
-# 🛒 Ecommerce Analytics Dashboard – Power BI Template (2026 Edition)
+# 📊 Ecommerce Analytics Dashboard – Power BI Template (2026 Edition)
 
-Turn your ecommerce data into clear, actionable insights in minutes — without building dashboards from scratch.
+A professional, ready-to-use Power BI template designed for ecommerce businesses.
 
 ---
 
 ## 🚀 What is this?
 
-A **professional, ready-to-use Power BI template** designed for ecommerce businesses.
+This is a **plug-and-play Power BI dashboard template (.pbit)** built to help you:
 
-Built with a clean data model, pre-built DAX, and modern visuals — so you can focus on **analysis, not setup**.
+* Track revenue, orders, and performance
+* Analyze product sales
+* Understand marketing channel contribution
+* Make data-driven decisions faster
+
+---
+
+## 📸 Dashboard Preview
+
+### Overview
+
+![Overview](screenshots/overview.png)
+
+### Products
+
+![Products](screenshots/products.png)
+
+### Marketing
+
+![Marketing](screenshots/marketing.png)
+
+---
+
+## 📈 Key Features
+
+* ⭐ Star Schema data model (best practice)
+* 📊 Pre-built KPIs (Revenue, Orders, AOV)
+* 📦 Product performance analysis
+* 📣 Marketing channel insights
+* ⚡ Optimized DAX measures
+* 🔄 Reusable for any ecommerce dataset
+
+---
+
+## 🧑‍💻 Who is this for?
+
+* Ecommerce store owners
+* Data analysts
+* Freelancers
+* Agencies working with Shopify / WooCommerce
+* Anyone who wants a ready-made BI solution
+
+---
+
+## ⚙️ How to use
+
+1. Open the `.pbit` file in Power BI
+2. Connect your data (Shopify, WooCommerce, CSV)
+3. Refresh
+4. Done ✅
+
+---
+
+## 📁 What's included
+
+* Power BI Template (.pbit)
+* Documentation
+* Dashboard screenshots
 
 ---
 
 ## 💡 Why this template?
 
-Most dashboards take hours (or days) to build.
+Building a proper ecommerce dashboard from scratch takes hours.
 
-This one gives you:
-
-* ✅ Instant visibility of your business performance
-* ✅ A structured, scalable data model
-* ✅ Professional-level dashboard design
-* ✅ Reusable template for any ecommerce store
+This template gives you a **production-ready starting point** so you can focus on insights instead of setup.
 
 ---
 
-## 📊 What you can analyze
+## 📬 Contact
 
-* Revenue, Orders, and Average Order Value (AOV)
-* Sales trends over time
-* Top-performing products
-* Marketing channel performance
-* Revenue distribution and growth
+If you need customization or support, feel free to reach out.
 
 ---
 
-## 🧩 Dashboard Pages
+## ⭐ Support
 
-### 1. Overview
-
-* Key KPIs (Revenue, Orders, AOV)
-* Revenue trends
-* Sales evolution over time
-
-### 2. Products
-
-* Product ranking by revenue
-* Units sold
-* Product performance breakdown
-
-### 3. Marketing
-
-* Acquisition channels
-* Revenue share by channel
-* Channel performance comparison
-
----
-
-## ⚙️ Features
-
-* ⭐ Star Schema data model
-* ⚡ Pre-built DAX measures
-* 🎯 Clean and modern design
-* 🔄 Fully reusable structure
-* 🔌 Easy data connection (Shopify, WooCommerce, CSV, Excel)
-
----
-
-## 🛠️ How to use
-
-1. Open the `.pbit` file in Power BI Desktop
-2. Connect your data source
-3. Apply transformations
-4. Save as `.pbix`
-5. Start analyzing
-
----
-
-## 🎯 Who is this for?
-
-* Ecommerce founders
-* Data analysts
-* BI freelancers
-* Marketing teams
-* Anyone who wants **fast, professional analytics without complexity**
-
----
-
-## 📦 What’s included
-
-* Power BI Template (.pbit)
-* Structured data model
-* Pre-built KPIs and visuals
-
----
-
-## 🧾 License
-
-* Personal and commercial use allowed
-* Redistribution or resale of the original file is not permitted
-
----
-
-## 🤝 Need customization?
-
-You can request a custom version tailored to your business.
-
----
-
-## 🚀 Stop guessing. Start analyzing.
-
-Transform your data into decisions.
+If you find this useful, consider giving this repo a star ⭐
