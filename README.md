@@ -14,18 +14,13 @@ This is a **plug-and-play Power BI dashboard template (.pbit)** built to help yo
 * Make data-driven decisions faster
 
 ---
-
 ## 📸 Dashboard Preview
 
-### Overview
-./screenshots/Overview.png](./screenshots/Overview.png)
+Dashboard screenshots are available in the `/screenshots` folder of this repository.
 
-### Products
-./screenshots/Products.png](./screenshots/Products.png)
-
-### Marketing
-./screenshots/Marketing.png](./screenshots/Marketing.png)
-
+- Overview: See `screenshots/Overview.png`
+- Products: See `screenshots/Products.png`
+- Marketing: See `screenshots/Marketing.png`
 
 ---
 
