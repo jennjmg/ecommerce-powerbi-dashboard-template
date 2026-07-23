@@ -18,16 +18,13 @@ This is a **plug-and-play Power BI dashboard template (.pbit)** built to help yo
 ## 📸 Dashboard Preview
 
 ### Overview
-
-![Overviews/Overview.png
+screenshots:/Overview.png
 
 ### Products
-
-![Products](screenshots/Products.png)
+screenshots:/Products.png
 
 ### Marketing
-
-![Marketing](screenshots/Marketing.png)
+screenshots:/Marketing.png
 
 ---
 
