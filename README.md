@@ -19,7 +19,7 @@ This is a **plug-and-play Power BI dashboard template (.pbit)** built to help yo
 
 ### Overview
 
-![Overview](screenshots/Overview.png)
+![Overviews/Overview.png
 
 ### Products
 
